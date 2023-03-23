@@ -20,12 +20,12 @@ Once the application is running, you can access the REST API by sending HTTP req
 ## API Endpoints
 The following endpoints are available in this application:
 
-GET /courses - Retrieve a list of all courses.
-GET /courses/{id} - Retrieve a single course by ID.
-POST /courses - Create a new course.
-PUT /courses/{id} - Update an existing course by ID.
-DELETE /courses/{id} - Delete a course by ID.
-All endpoints return JSON data.
+GET /courses - Retrieve a list of all courses. <br>
+GET /courses/{id} - Retrieve a single course by ID. <br>
+POST /courses - Create a new course. <br>
+PUT /courses/{id} - Update an existing course by ID. <br>
+DELETE /courses/{id} - Delete a course by ID. <br>
+All endpoints return JSON data. 
 
 ## Contributing
 If you would like to contribute to this project, feel free to open an issue or submit a pull request. All contributions are welcome!
@@ -34,4 +34,4 @@ If you would like to contribute to this project, feel free to open an issue or s
 This application is licensed under the MIT license. See the LICENSE file for details.
 
 ## Contact
-If you have any questions or concerns about this application, please contact the developer on https://www.linkedin.com/in/abhishekkumarxd
+If you have any questions or concerns about this application, please contact me on https://www.linkedin.com/in/abhishekkumarxd
